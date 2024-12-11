@@ -1,0 +1,22 @@
+# Copyright Configuration File
+
+# Copyright text (supports Unicode)
+text = "© 2024 frederic.henri@gmail.com."
+
+# Path to the font file (TrueType or OpenType)
+font_path = "/System/Library/Fonts/Monaco.ttf"
+
+# Font size
+font_size = 24.0
+
+# Position options: 
+# top_left, top_center, top_right
+# middle_left, middle_center, middle_right
+# bottom_left, bottom_center, bottom_right
+position = "bottom_right"
+
+# Color (RGBA values)
+color_r = 169  # Red
+color_g = 169  # Green
+color_b = 169  # Blue
+color_a = 128  # Alpha (transparency)
